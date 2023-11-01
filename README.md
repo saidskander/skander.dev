@@ -1,2 +1,3 @@
 # skander.dev
- landing page
+
+https://saidskander.github.io/skander.dev/
